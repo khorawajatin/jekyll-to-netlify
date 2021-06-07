@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: khorawajatin/jekyll-to-netlify
   branch: master
 
