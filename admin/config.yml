@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: khorawajatin/jekyll-to-netlify
+  branch: master
 
 media_folder: "img"
 
