@@ -3,3 +3,15 @@ backend:
   repo: khorawajatin/jekyll-to-netlify
 
 media_folder: "img"
+
+collections: 
+  - name: "website-settings"
+    label: "Website Settings"
+    files:
+      - label: "Website Settings"
+        name: "site"
+        file: "_data/siteinfo.yml"
+        fields: 
+          - label: "Tel"
+            name: "tel"
+            widget: "string"
