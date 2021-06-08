@@ -16,3 +16,6 @@ collections:
           - label: "Tel"
             name: "tel"
             widget: "string"
+          - label: "Tel Display"
+            name: "tel-display"
+            widget: "string"  
